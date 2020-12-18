@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 - you found me
+
+- 🌍 You can find me writing on [my personal blog][tomd] and [Tutorial Works][tw]
+
+[tomd]: https://tomd.xyz
+[tw]: https://www.tutorialworks.com
 
 <!--
 **monodot/monodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
