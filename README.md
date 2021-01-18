@@ -5,10 +5,13 @@
 - 🌍 My blogs: [tomd.xyz][tomd] and [Tutorial Works][tw]
 - 🎈 I also recently started a blog on [disco][disco] ([source][discosrc])
 
+I have a book, [Apache Camel Step-by-Step][camelsbs].
+
 [tomd]: https://tomd.xyz
 [tw]: https://www.tutorialworks.com
 [disco]: https://www.discochap.com
 [discosrc]: https://github.com/monodot/discochap
+[camelsbs]: https://tomd.xyz/camelstepbystep
 
 <!--
 **monodot/monodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
