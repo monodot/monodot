@@ -7,6 +7,11 @@
 
 I have a book, [Apache Camel Step-by-Step][camelsbs].
 
+My interests:
+
+- Diagrams-as-code - I'm learning D3.js
+- Containers/Kubernetes/DevOps
+
 [tomd]: https://tomd.xyz
 [tw]: https://www.tutorialworks.com
 [disco]: https://www.discochap.com
