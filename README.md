@@ -1,9 +1,14 @@
 ### Hi there 👋 - you found me
 
-- 🌍 You can find me writing on [my personal blog][tomd] and [Tutorial Works][tw]
+🔭 I’m currently working on ...
+
+- 🌍 My blogs: [tomd.xyz][tomd] and [Tutorial Works][tw]
+- 🎈 I also recently started a blog on [disco][disco] ([source][discosrc])
 
 [tomd]: https://tomd.xyz
 [tw]: https://www.tutorialworks.com
+[disco]: https://www.discochap.com
+[discosrc]: https://github.com/monodot/discochap
 
 <!--
 **monodot/monodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
