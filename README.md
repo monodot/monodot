@@ -13,6 +13,7 @@ I'm a developer and DevOps engineer type of person. I work at Red Hat.
 - Integration and messaging - Apache Camel and ActiveMQ. I've written a book on Apache Camel for beginners, which is called [Apache Camel Step-by-Step][camelsbs].
 - DevOps culture and practice
 - DevOps technology: Containers, Kubernetes/OpenShift, CI/CD
+- Biscuits.
 
 🌱 Stuff I've been learning.... Recently I've been trying to get better at JS development, so I've been using Svelte, Node, AWS Lambda, Serverless for personal projects.
 
