@@ -1,17 +1,18 @@
 ### Hi there 👋 - it's me, Tom
 
-🔭 I'm a developer and DevOps engineer type of person. I work for Red Hat. In my free time I'm also working on ...
+I'm a developer and DevOps engineer type of person. I work at Red Hat. 
+
+🔭 In my free time I'm also working on:
 
 - 🌍 My blogs: [tomd.xyz][tomd] and [Tutorial Works][tw]
 - [Live Curtain][lc], a message displayer and countdown clock for your online meetings
 
-My tech interests:
+🤔 I'm interested in:
 
 - DevOps culture and practice
 - DevOps technology: Containers, Kubernetes/OpenShift
 - CI/CD
 - Integration and APIs - I've written a book on Apache Camel for beginners, which is called [Apache Camel Step-by-Step][camelsbs].
-- Diagrams-as-code - 🌱 I've recently dabbled with D3.js
 
 🌱 Stuff I've been learning.... Recently I've been trying to get better at JS development, so I've been using Svelte, Node, AWS Lambda, Serverless for personal projects.
 
