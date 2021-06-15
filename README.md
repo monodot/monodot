@@ -24,6 +24,7 @@ My tech interests:
 [camelsbs]: https://tomd.xyz/camelstepbystep
 [linkedin]: https://www.linkedin.com/in/tomint/
 [twitter]: https://twitter.com/monodot
+[lc]: https://livecurtain.com
 
 <!--
 **monodot/monodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
