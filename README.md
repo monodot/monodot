@@ -1,6 +1,6 @@
 ### Hi there 👋 - it's me, Tom
 
-I'm a developer and DevOps engineer type of person. I work at Red Hat. 
+I'm a developer and DevOps engineer type of person. I work at Grafana Labs. 
 
 🔭 In my free time I'm also working on:
 
