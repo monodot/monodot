@@ -1,19 +1,19 @@
 ### Hi there 👋 - it's me, Tom
 
-I'm a developer and DevOps engineer type of person. I work at Grafana Labs. 
+I'm a Field Engineer at Grafana Labs where I specialise in helping customers observe their entire stack.
 
-🔭 In my free time I'm also working on:
+🔭 I also like to work on side projects. In my free time, I'm also working on:
 
-- 🌍 My blogs: [tomd.xyz][tomd] and [Tutorial Works][tw]
+- 🌍 My blogs and websites: [tomd.xyz][tomd] and [Tutorial Works][tw]
 - [Live Curtain][lc], a message displayer and countdown clock for your online meetings
 - [Apoll.app][apoll], a way to create and share super-simple, anonymous, expiring polls
 
 🤔 I'm interested in:
 
-- Writing and creating stuff!
+- Writing and creating stuff, and building websites.
+- DevOps technology and practices: Containers, Kubernetes/OpenShift, CI/CD
 - Integration and messaging - Apache Camel and ActiveMQ. I've written a book on Apache Camel for beginners, which is called [Apache Camel Step-by-Step][camelsbs].
-- DevOps practice and technology: Containers, Kubernetes/OpenShift, CI/CD
-- Biscuits, especially digestives, bourbon and hobnobs.
+- Biscuits (especially digestives, bourbon and hobnobs).
 
 📫 Want to know anything else? Feel free to knock on my door [on Twitter][twitter] or [on LinkedIn][linkedin].
 
