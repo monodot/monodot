@@ -12,7 +12,7 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 
 - Teaching and writing about technology
 - DevOps technology and practices: Containers, Kubernetes, CI/CD, infrastructure automation.
-- Integration and messaging - e.g. with Apache Camel and ActiveMQ. I've written a book on Apache Camel for beginners, which is called [Apache Camel Step-by-Step][camelsbs].
+- Integration and messaging - e.g. with Apache Camel and ActiveMQ. I wrote a book about Apache Camel for beginners, called [Apache Camel Step-by-Step][camelsbs].
 - Biscuits (especially digestives, bourbon and hobnobs).
 
 📫 Want to know anything else? Feel free to knock on my door [on Twitter][twitter] or [on LinkedIn][linkedin].
