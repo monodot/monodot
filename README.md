@@ -6,7 +6,7 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 
 - [Tutorial Works][tw] - a tech blog and library of tutorials for cloud and software engineers working with technologies like Docker, Kubernetes, Java and more. I also publish code samples to the [tutorialworks GitHub organisation][tworg].
 - [Live Curtain][lc], a message displayer and countdown clock for your online meetings
-- [Apoll.app][apoll], a way to create and share super-simple, anonymous, expiring polls
+- [Apoll.app][apoll], a way to create and share super-simple polls -- ideal for meetings and workshops.
 
 🤔 I'm interested in:
 
