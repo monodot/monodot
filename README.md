@@ -4,9 +4,9 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 
 🔭 I also like to work on side projects. In my free time, I'm also working on:
 
-- [Tutorial Works][tw] - a tech blog and library of tutorials for cloud and software engineers working with technologies like Docker, Kubernetes, Java and more. I also publish code samples to the [tutorialworks GitHub organisation][tworg].
-- [Live Curtain][lc], a message displayer and countdown clock for your online meetings
+- [Mainmates][mainmates] - a personal, private PIM for feeling better connected to your friends
 - [Apoll.app][apoll], a way to create and share super-simple polls -- ideal for meetings and workshops.
+- [Tutorial Works][tw] - a tech blog and library of tutorials for cloud and software engineers working with technologies like Docker, Kubernetes, Java and more. I also publish code samples to the [tutorialworks GitHub organisation][tworg].
 
 🤔 I'm interested in:
 
@@ -27,3 +27,4 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 [lc]: https://livecurtain.com
 [apoll]: https://apoll.app
 [tworg]: https://github.com/tutorialworks
+[mainmates]: https://github.com/monodot/mainmates
