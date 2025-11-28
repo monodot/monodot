@@ -4,7 +4,10 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 
 🤔 I'm interested in:
 
-- Teaching and writing about technology
+- Observability, cloud, automation
+- Playing with new technologies
+- Indie hacking and launching tiny products
+- Teaching and writing about technology (although I don't find the time so much these days!)
 - DevOps technology and practices: Containers, Kubernetes, CI/CD, infrastructure automation.
 - Integration and messaging - e.g. with Apache Camel and ActiveMQ. I wrote a book about Apache Camel for beginners, called [Apache Camel Step-by-Step][camelsbs].
 - Biscuits (especially digestives, bourbon and hobnobs).
