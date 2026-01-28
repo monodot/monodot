@@ -12,7 +12,7 @@ I'm a Field Engineer at Grafana Labs, where I help people observe more from thei
 - Integration and messaging - e.g. with Apache Camel and ActiveMQ. I wrote a book about Apache Camel for beginners, called [Apache Camel Step-by-Step][camelsbs].
 - Biscuits (especially digestives, bourbon and hobnobs).
 
-📫 Want to know anything else? Feel free to knock on my door [on Twitter][twitter] or [on LinkedIn][linkedin].
+📫 Want to know anything else? Feel free to knock on my door [on Twitter][twitter] or [on LinkedIn][linkedin], or [check out my blog][tomd].
 
 [tomd]: https://tomd.xyz
 [tw]: https://www.tutorialworks.com
