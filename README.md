@@ -13,6 +13,7 @@ Check out these OSS things I made recently:
 And here are some other things I made (non-OSS):
 
 - [WalkThere][walkthere] (iOS) - an app for walking a new city "as the crow flies"
+- [Nice Move][nicemove] (iOS) - a library of quick, guided bodyweight workouts on your iPhone and Apple Watch
 - [Live Curtain][lc] (web) - a simple countdown timer for your online meetings
 - [Apoll][apoll] (web) - free audience Q&A tool for workshops and training
 
@@ -28,3 +29,5 @@ And here are some other things I made (non-OSS):
 [otel-bench-lambda]: https://github.com/monodot/otel-bench-lambda/
 [walkthere]: https://apps.apple.com/us/app/walkthere/id6758466851
 [manikure]: https://github.com/monodot/manikure/
+[nicemove]: https://apps.apple.com/gb/app/nice-move-quick-workouts/id6748263452
+
