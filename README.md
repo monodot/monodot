@@ -4,7 +4,6 @@ I'm a Staff Field Engineer at Grafana Labs, where I help people observe more fro
 
 Check out these OSS things I made recently:
 
-- [Bankerchief][bankerchief] - simple income and expense reports from your bank CSV & JSON files; cross-platform and PWA distributions available
 - [grafana-playground][grafana-playground] - demos using the Grafana Cloud and the Grafana LGTM open source stack
 - [Slate (Firefox extension)][slate] - resize your browser window to a fixed 16:9 resolution for recording screencasts and videos
 - [OpenTelemetry Lambda benchmarking tool][otel-bench-lambda] - measuring the impact of OTel instrumentation variants on Lambda execution time
